@@ -3,10 +3,6 @@
 An intelligent resume analyzer that compares your resume
 with a job description and provides ATS score + skill gap analysis.
 
-## 🚀 Live Demo
-
-[Click here to view the app](https://your-streamlit-link-here)
-
 ## 📌 Features
 
 - Upload resume as PDF or DOCX

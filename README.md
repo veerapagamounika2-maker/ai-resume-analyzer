@@ -61,5 +61,5 @@ ai-resume-analyzer/
 ## 👩‍💻 Author
 
 Mounika Veerapaga
-[LinkedIn](https://www.linkedin.com/in/veerapagamaounika/)
+
 [GitHub](https://github.com/veerapagamounika2-maker)
